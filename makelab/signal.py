@@ -1,3 +1,5 @@
+#making package for signal processing
+# import matplotlib.pyplot as plt # matplot lib is the premiere plotting lib for Python: https://matplotlib.org/
 import matplotlib.pyplot as plt # matplot lib is the premiere plotting lib for Python: https://matplotlib.org/
 import numpy as np # numpy is the premiere signal handling library for Python: http://www.numpy.org/
 import scipy as sp # for signal processing
