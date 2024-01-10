@@ -12,3 +12,5 @@ def convert_to_mono(audio_data):
         audio_data_mono = audio_data.sum(axis=1) / 2
         return audio_data_mono
     return audio_data
+# end convert_to_mono
+# ----------------------------------------------------------------------
